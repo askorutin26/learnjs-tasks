@@ -1,0 +1,7 @@
+<DOCTYPE HTML>
+  <html>
+    <body>
+      <script>alert("Я JavaScript!")</script>
+    </body>
+  </html>
+</DOCTYPE>;
